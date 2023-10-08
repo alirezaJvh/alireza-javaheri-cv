@@ -5,8 +5,8 @@ avatar_filename: alireza.png
 bio: Test 1
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DeepLearning
+  - MachineLearning
 social:
   - icon: envelope
     icon_pack: fas
