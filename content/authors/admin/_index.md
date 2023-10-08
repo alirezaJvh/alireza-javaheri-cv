@@ -1,8 +1,7 @@
 ---
 title: Alireza Javaheri
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Applicant
+bio: Test 1
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -30,7 +29,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
+  - name: Shahid Beheshti University
     url: https://www.stanford.edu/
 education:
   courses:
@@ -51,6 +50,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+H﻿ello
