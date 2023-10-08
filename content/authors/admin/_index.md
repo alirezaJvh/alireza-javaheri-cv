@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/in/alireza-javaheri-8aa652169/
   - icon: cv
     icon_pack: ai
-    link: uploads/CV.pdf
+    link: uploads/AlirezaJavaheriCV.pdf
 organizations:
   - name: Shahid Beheshti University
     url: https://www.stanford.edu/
