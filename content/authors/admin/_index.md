@@ -1,7 +1,7 @@
 ---
 title: Alireza Javaheri
 role: PhD Applicant
-avatar_filename: alireza.png
+avatar_filename: me.jpeg
 bio: Test 1
 interests:
   - Artificial Intelligence
